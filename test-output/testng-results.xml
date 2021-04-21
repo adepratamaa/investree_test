@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-21T21:39:27 ICT" name="Default suite" finished-at="2021-04-21T21:39:58 ICT" duration-ms="31086">
+    <groups>
+    </groups>
+    <test started-at="2021-04-21T21:39:27 ICT" name="Default test" finished-at="2021-04-21T21:39:58 ICT" duration-ms="31086">
+      <class name="testing.Message_test">
+        <test-method signature="Submit_Message_form_with_invalid_description_data()[pri:0, instance:testing.Message_test@6e509ffa]" started-at="2021-04-21T21:39:27 ICT" name="Submit_Message_form_with_invalid_description_data" description="Submit Message form with invalid description data" finished-at="2021-04-21T21:39:33 ICT" duration-ms="5595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit_Message_form_with_invalid_description_data -->
+        <test-method signature="Submit_Message_form_with_invalid_email_data()[pri:0, instance:testing.Message_test@6e509ffa]" started-at="2021-04-21T21:39:33 ICT" name="Submit_Message_form_with_invalid_email_data" description="Submit Message form with invalid email data" finished-at="2021-04-21T21:39:38 ICT" duration-ms="5134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit_Message_form_with_invalid_email_data -->
+        <test-method signature="Submit_Message_form_with_invalid_name_data()[pri:0, instance:testing.Message_test@6e509ffa]" started-at="2021-04-21T21:39:38 ICT" name="Submit_Message_form_with_invalid_name_data" description="Submit Message form with invalid name data" finished-at="2021-04-21T21:39:43 ICT" duration-ms="4949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit_Message_form_with_invalid_name_data -->
+        <test-method signature="Submit_Message_form_with_invalid_phone_data()[pri:0, instance:testing.Message_test@6e509ffa]" started-at="2021-04-21T21:39:43 ICT" name="Submit_Message_form_with_invalid_phone_data" description="Submit Message form with invalid phone data" finished-at="2021-04-21T21:39:48 ICT" duration-ms="5094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit_Message_form_with_invalid_phone_data -->
+        <test-method signature="Submit_Message_form_with_invalid_subject_data()[pri:0, instance:testing.Message_test@6e509ffa]" started-at="2021-04-21T21:39:48 ICT" name="Submit_Message_form_with_invalid_subject_data" description="Submit Message form with invalid subject data" finished-at="2021-04-21T21:39:53 ICT" duration-ms="5196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit_Message_form_with_invalid_subject_data -->
+        <test-method signature="Submit_Message_with_valid_data()[pri:0, instance:testing.Message_test@6e509ffa]" started-at="2021-04-21T21:39:53 ICT" name="Submit_Message_with_valid_data" description="Submit Message with valid data" finished-at="2021-04-21T21:39:58 ICT" duration-ms="5088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit_Message_with_valid_data -->
+      </class> <!-- testing.Message_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
